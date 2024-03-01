@@ -16,6 +16,8 @@
     "db:check": "drizzle-kit check:sqlite"
   },
   "dependencies": {
+    "@keystatic/core": "^0.5.0",
+    "@keystatic/next": "^5.0.0",
     "@lucia-auth/adapter-drizzle": "^1.0.2",
     "@node-rs/argon2": "^1.7.2",
     "@node-rs/bcrypt": "^1.9.2",
